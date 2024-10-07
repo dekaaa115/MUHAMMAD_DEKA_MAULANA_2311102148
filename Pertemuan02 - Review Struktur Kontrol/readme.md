@@ -55,7 +55,6 @@ func main (){
 Screenshot Output :
 
 ![hipotenusa](hipotenusa.png)
-```
 
 ### C. Latihan 1
 
@@ -89,7 +88,6 @@ func main (){
 Screenshot Output :
 
 ![latihan1](latihan1.png)
-```
 
 ### D. Latihan 2
 
@@ -116,7 +114,6 @@ func main(){
 Screenshot Output :
 
 ![Tahun Kabisat](latihan2.png)
-```
 
 ### E. Latihan 3
 
@@ -145,7 +142,6 @@ func main() {
 Screenshot Output :
 
 ![Jari jari](latihan3.png)
-```
 
 ### F. Latihan 4
 
@@ -179,7 +175,7 @@ func main() {
 Screenshot Output :
 
 ![Celcius](latihan4.png)
-```
+
 ### G. Latihan 5
 
 ```go
@@ -211,4 +207,3 @@ func main() {
 Screenshot Output :
 
 ![latihan 5](latihan5.png)
-```
