@@ -28,7 +28,6 @@ func main() {
 Screenshot Output :
 
 ![hello world!](hello.png)
-```
 
 ### B. Hipotenusa
 
